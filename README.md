@@ -1,3 +1,3 @@
 # My-first-repository
-## Editign the file
+## Editing the file
 Its a markdown file in this repository.
